@@ -1,7 +1,11 @@
+!<img width="1280" height="969" alt="image" src="https://github.com/user-attachments/assets/7f6f428a-3c59-4e22-9179-5f982ccfac54" /> 
+!<img width="1292" height="948" alt="image" src="https://github.com/user-attachments/assets/ec0cafd5-6755-486b-9283-4e81cc941353" />
+
+
 # Simple Notepad
 
 A simple text editor with a graphical user interface, written in C++ using the Qt framework. It allows opening, editing, and saving files in HTML format, as well as basic text formatting.
-
+KISS ++
 ! unpack UNPACK DOKS in doks !!!!)))
 
 ## Features
